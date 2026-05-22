@@ -131,7 +131,7 @@
 单仓：
  http://www.饭太硬.net/tv	# 饭太硬接口
  http://肥猫.net				# 肥猫接口
- http://我不是.摸鱼儿.com			# 摸鱼儿接口
+ http://我不是.摸鱼儿.top			# 摸鱼儿接口
  http://tvbox.王二小放牛娃.top		# 王小二放牛娃接口
  https://9280.kstore.vip/newwex.json # 王小二放牛娃新接口
  https://17264.kstore.space/哈基米.png	# 哈基米
@@ -146,7 +146,6 @@
  https://tv.菜妮丝.top			# 菜妮丝接口
  https://api.hgyx.vip/hgyx.json		# HG接口
  https://dxawi.github.io/0/0.json	# dxawi
- https://mitvbox.xyz/小米/DEMO.json		# 小米
  http://xhztv.top/xhz		# 小盒子单仓
  http://xhztv.top/4k.json		# 小盒子4K
  https://9877.kstore.space/AnotherD/api.json		# 潇洒接口
