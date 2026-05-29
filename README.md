@@ -108,6 +108,7 @@
 | MediaMix(521影视)       | v1.4.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/MediaMix(原521影视)/MediaMix(原521影视)电视版-1.4.8.apk) | 🟢    | 521是基于蜂蜜版修改的空壳应用，已改名为 `MediaMix` 包含电视版和手机版 |
 | TG音乐台                | v7.0        | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/TG音乐台-TV7.0本地版-游魂网络.apk) | 🟢    | TVBox壳本地版内置10万+音乐/MV资源                            |
 | 贝乐虎儿歌 | v6.6.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/贝乐虎儿歌电视_6.6.0.apk) | 🟢 | 专为安卓智能电视打造的儿歌应用，种类非常丰富 |
+| Myyy | v2.0 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/Myyy_TV端2.0.0.apk) | 🟢 | 电视版的多源音乐播放器 |
 | ...updating             |             |                                                              |      |                                                              |
 
 ## 接口源 🌟
